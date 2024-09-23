@@ -1,0 +1,1 @@
+# plugins-smntcs-disable-rest-api-user-endpoints
